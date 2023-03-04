@@ -1,0 +1,1 @@
+{"features": ["Flight", "DayOfWeek", "Time", "Length", "Airline", "AirportFrom", "AirportTo"], "targets": ["target"], "model_type": "xgboost", "target_mapping": {"0": 0, "1": 1}}
